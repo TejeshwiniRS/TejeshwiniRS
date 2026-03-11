@@ -21,8 +21,9 @@
 - 🤖 Built **LLM**, **RAG**, and **multimodal AI** systems in production, including a 2× faster grammar correction model & a RAG chatbot with 30% better accuracy
 - 📦 Shipped scalable microservices, ETL pipelines, and search infrastructure serving millions of users
 - 📄 **2× Published** in Springer (AITA 2024 & ICT4SD 2023) and presented at research conferences
-- 🕺 Trained **Bharathanatyam dancer** & proud recipient of the **Kalai Ilamani Award** 🏆
 - 🔍 Actively seeking **Summer 2026 Software Engineering Internships**
+- 👯 I’m looking to collaborate on projects related to AI/ML, and full-stack development.
+- 🕺 Trained **Bharathanatyam dancer** & proud recipient of the **Kalai Ilamani Award** 🏆
 
 ---
 
@@ -46,6 +47,8 @@
 ![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-00B388?style=flat-square&logoColor=white)
 
 ### Frameworks & Tools
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
@@ -92,7 +95,7 @@
 
 ## 📬 Let's Connect!
 
-I love talking **technology, research, AI, or Bharathanatyam** 💃  
+I love talking **Technology, Research, AI, or Bharathanatyam** 💃  
 Always open to collaborations, internships, and interesting conversations!
 
 <div align="center">
